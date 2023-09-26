@@ -5,4 +5,4 @@ git add .
 git commit -m "commit message"
 
 # Pousser vers GitLab
-git push origin master
+git push 
